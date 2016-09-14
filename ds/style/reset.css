@@ -34,4 +34,5 @@ h6 { font-size:9px;}
 .fr{float:right;}
 
 input button {border:none;}
-
+.clearfix{zomm:1;}
+.clearfix:after{ content:""; display:block; clear:both;}
